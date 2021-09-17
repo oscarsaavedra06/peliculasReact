@@ -1,0 +1,15 @@
+.div {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.div p {
+    height: 44px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.div img {
+    width: 250;
+    height: 400px;
+}
