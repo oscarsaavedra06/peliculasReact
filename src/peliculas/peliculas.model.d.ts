@@ -5,3 +5,9 @@ export interface pelicula {
     poster: string;
 
 }
+
+export interface peliculasLandingDTO {
+
+    enCartelera?: pelicula[],
+    proximosEstrenos?: pelicula[]
+}
